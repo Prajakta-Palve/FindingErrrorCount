@@ -1,4 +1,4 @@
-#
+#Extracting Error count from a files in folder
 import subprocess
 path="/home/prajakta/RegressionResults/Unicity_20190708/"
 output=subprocess.Popen(["ls",path],
